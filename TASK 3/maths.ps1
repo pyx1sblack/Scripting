@@ -1,3 +1,6 @@
+#Student Number: s3925523
+#Student Name: Deena Yu-Fawcett
+
 Write-Host "Welcome to Windows Calculator"
 
 $repeat = "Yes"
