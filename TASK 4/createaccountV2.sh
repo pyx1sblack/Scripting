@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Student Number: s3925523
+#Student Name: Deena Yu-Fawcett
+
 #Name of person who inspected code: Deena Yu-Fawcett
 #Date when person inspected code: 24/10/2022
 #Number of errors found in original code: 5
