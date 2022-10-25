@@ -1,4 +1,6 @@
 #!/bin/bash
+#Student Number: s3925523
+#Student Name: Deena Yu-Fawcett
 
 pattern="pattern.txt"
 
